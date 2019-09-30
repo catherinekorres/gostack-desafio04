@@ -1,0 +1,19 @@
+header {
+  height: 64px;
+  background: #4A90E2;
+  color: #FFF;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 40px;
+}
+
+header #perfil {
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+}
+
+header #perfil img {
+  padding-left: 10px;
+}
