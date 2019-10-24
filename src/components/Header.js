@@ -7,16 +7,20 @@ import './Header.css';
 
 function Header() {
   return(
+
     <header>
+
       <div id="logo">
         <img src={Logo} />
       </div>
 
       <div id="perfil">
         <h5>Meu perfil</h5>
-        <img src={User} />
+        <img src={User} width="24"/>
       </div>
+
     </header>
+    
   );
 };
 
