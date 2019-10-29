@@ -2,8 +2,9 @@
 [Desafio 04](https://github.com/Rocketseat/bootcamp-gostack-desafio-04/blob/master/README.md) do Bootcamp GoStack 2019 da Rocketseat
 
 ## Descrição
-Criar uma aplicação do zero utilizando Express.
-Essa aplicação será utilizada para armazenar projetos e suas tarefas.
+Cração uma aplicação do zero utilizando Webpack, Babel, Webpack Dev Server e ReactJS, para fins de entendimento de cada tecnologia por trás do ReactJS.
+Essa aplicação se trata de uma interface simples inspirida no Facebook.
+As informações contidas na interface são estáticas.
 
 ## Objetivos
 Estruturas que devem ser criadas para a conclusão do desafio.
